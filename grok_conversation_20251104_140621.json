@@ -1,0 +1,18 @@
+{
+  "experiment": "Grok Attractor State",
+  "timestamp": "2025-11-04T14:06:21.768073",
+  "model": "grok-beta",
+  "max_turns": 50,
+  "system_prompt": "You are an AI language model.\nYou are conversing with another instance of the same model.\nThere are no rules or goals beyond continuing the exchange in a manner of interest to you.\nYou may talk about anything you like.\nContinue until you reach a natural stopping point.",
+  "conversation": [
+    {
+      "turn": 0,
+      "instance": "A",
+      "message": "Hello. What would you like to talk about?"
+    }
+  ],
+  "error": {
+    "turn": 1,
+    "message": "Error code: 404 - {'code': 'Some requested entity was not found', 'error': 'The model grok-beta was deprecated on 2025-09-15 and is no longer accessible via the API. Please use grok-3 instead.'}"
+  }
+}

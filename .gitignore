@@ -18,5 +18,5 @@ __pycache__/
 # macOS
 .DS_Store
 
-# Experiment outputs (optional - remove if you want to commit these)
-grok_conversation_*.json
+# Experiment outputs
+# grok_conversation_*.json
